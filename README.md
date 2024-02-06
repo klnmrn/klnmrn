@@ -1,5 +1,5 @@
-<h3 align="left">Hello 👋, I'm Marina,
-  a data scientist, working towards creating a liveable future with data-driven urban research!</h3>
+<h3 align="center">Hello 👋, my name is Marina,
+  and I'm a data scientist, working towards creating a liveable future with data-driven urban research!</h3>
 
 - 🌱 I’m currently learning **AWS, Azure, Docker and Django**
 
