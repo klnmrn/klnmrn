@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **AWS, Azure, Docker and Django**
 
+- 👯 I’m looking to collaborate on **data science/AI projects in the healthcare and sustainability sectors**
+
 - 👩🏻‍💻 All of my projects are available at [my GitHub](https://github.com/klnmrn?tab=repositories)
 
 - 💬 Ask me about **data science applied to mobility and urban planning!**
