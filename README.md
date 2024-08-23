@@ -1,7 +1,7 @@
 <h4 align="left">Hello 👋,  <br><br>
   I'm Marina, a data scientist, working towards creating a liveable future with data-driven urban research!</h4>
 
-- 🌱 I’m currently learning **AWS, Azure, Docker and Django**
+- 🌱 I’m currently learning **AWS, Azure and Docker**
 
 - 👯 I’m looking to collaborate on **data science/AI projects in healthcare and sustainability sectors**
 
