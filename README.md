@@ -1,7 +1,7 @@
 <h4 align="left">Hello 👋,  <br><br>
   I'm Marina, a data scientist, and I make sense of complex data with visual stories that drive action!</h4>
 
-- 🌱 I’m currently learning about cloud computing services, and model deployment and monitoring **(AWS, Azure, GCP, Docker and Kubernetes)**
+- 🌱 I’m currently learning about cloud computing services, model deployment and monitoring **(AWS, Azure, GCP, Docker and Kubernetes)**
 
 - 👯 I’m looking to collaborate on **data science/AI projects in healthcare and sustainability**
 
