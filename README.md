@@ -1,9 +1,9 @@
 <h4 align="left">Hello 👋,  <br><br>
-  I'm Marina, a data scientist, working towards creating a liveable future with data-driven urban research!</h4>
+  I'm Marina, a data scientist, and I make sense of complex data with visual stories that drive action!</h4>
 
-- 🌱 I’m currently learning **AWS, Azure and Docker**
+- 🌱 I’m currently learning **AWS, Azure, Docker and Kubernetes**
 
-- 👯 I’m looking to collaborate on **data science/AI projects in healthcare and sustainability sectors**
+- 👯 I’m looking to collaborate on **data science/AI projects in healthcare and sustainability**
 
 - 👩🏻‍💻 My projects are available at [my GitHub](https://github.com/klnmrn?tab=repositories)
 
