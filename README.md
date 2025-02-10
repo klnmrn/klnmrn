@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about cloud computing services, model deployment and monitoring **(AWS, Azure, GCP, Docker and Kubernetes)**
 
-- 👯 I’m looking to collaborate on **data science/AI projects in healthcare and sustainability**
+- 👯 I’m looking to collaborate on **data science/AI projects (ideally in healthcare or sustainability)**
 
 - 👩🏻‍💻 My projects are available at [my GitHub](https://github.com/klnmrn?tab=repositories)
 
